@@ -68,13 +68,13 @@
   <distributionManagement>
 	<repository>
 		<id>deployment</id>
-		<name>Internal Releases</name>
+		<name>Releases</name>
 		<url>http://52.206.40.233:8081/repository/MVN-RELEASE/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>deployment</id>
-		<name>Internal Releases</name>
+		<name>Snapshots</name>
 		<url>http://52.206.40.233:8081/repository/MVN-SNAPSHOT/</url>
 	</snapshotRepository>
 
